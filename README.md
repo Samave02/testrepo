@@ -1,3 +1,3 @@
 # testrepo
 
-## edinting the file
+## edtiting the file
